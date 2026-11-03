@@ -25,7 +25,10 @@ Any individual or entity wishing to use this code for commercial purposes must c
 You may use this license text to license your own projects, provided that you include this license text in full and unmodified. This license does not grant you any rights to use the trademarks, logos, or brand names of the Licensor. The name "SimpleTools Studio HalfOpenSource License" and "SHL" are reserved as the official names of this license text and may not be used to endorse derivative licenses without explicit permission from SimpleTools Studio (the original drafter).
 
 7. DISCLAIMER OF WARRANTY AND LIABILITY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR OR LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR SPECIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA, LOSS OF PROFITS, HARDWARE DAMAGE, OR PSYCHOLOGICAL DISTRESS CAUSED BY ANY EASTER EGGS) ARISING OUT OF THE USE OF THE SOFTWARE.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
+
+THIS INCLUDES, BUT IS NOT LIMITED TO, ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION; HARDWARE DAMAGE; OR PSYCHOLOGICAL DISTRESS CAUSED BY ANY EASTER EGGS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 8. TERMINATION
 Upon any violation of the terms herein, the Licensor shall immediately terminate your access and usage rights to the Software and require you to destroy all obtained source code and binary files. The Licensor reserves the right to pursue all available legal remedies.
