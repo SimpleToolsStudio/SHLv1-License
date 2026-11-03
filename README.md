@@ -2,7 +2,7 @@
 
 **Note:** The full legal text of this license is available in the [LICENSE](./LICENSE) file.
 
-SHL is a proprietary, non-open-source commercial license established by SimpleTools Studio. It is classified as a "Source Available" license and is designed to be stricter than GPLv3, specifically targeting code protection for independent developers.
+SHL is a proprietary, non-open-source license established by SimpleTools Studio. It is classified as a "Source Available" license and is designed to provide stronger protection for independent developers than permissive licenses like MIT, while avoiding the copyleft obligations of GPLv3.
 
 ### Core Philosophy
 SHL operates on a strict separation between visibility and usage. It allows public visibility of the source code for educational and research purposes, but firmly prohibits any commercial exploitation, distribution, or reverse engineering without explicit written authorization.
