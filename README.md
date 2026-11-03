@@ -1,5 +1,7 @@
 # SimpleTools Studio HalfOpenSource License (SHL) v1.0
 
+**Note:** The full legal text of this license is available in the [LICENSE](./LICENSE) file.
+
 SHL is a proprietary, non-open-source commercial license established by SimpleTools Studio. It is classified as a "Source Available" license and is designed to be stricter than GPLv3, specifically targeting code protection for independent developers.
 
 ### Core Philosophy
@@ -18,7 +20,7 @@ To use this license for your own repository, follow these steps:
 3. Add a notice to your source code headers (e.g., for C/C++):
    ```c
    /*
-    * Copyright (c) 2026 YourName.
+    * Copyright (c) [Year] [Full Name of Licensor / Entity].
     * Licensed under the SimpleTools Studio HalfOpenSource License (SHL) v1.0.
     * See the LICENSE file in the project root for full terms.
     */
