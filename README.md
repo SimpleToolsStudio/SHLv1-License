@@ -11,6 +11,7 @@ SHL operates on a strict separation between visibility and usage. It allows publ
 *   **Permitted Actions**: Personal, non-commercial study and research only.
 *   **Prohibited Actions**: Commercial integration, distribution, sublicensing, and reverse engineering.
 *   **Enforcement**: Unauthorized commercial use is subject to liquidated damages starting at $10,000 USD per violation (or total generated profits, whichever is higher).
+*   **Patent Protection**: Includes a defensive patent grant (similar to Apache 2.0) to protect users from patent trolls, with automatic termination of patent rights for anyone initiating patent litigation.
 *   **Commercial Licensing**: Available upon separate written negotiation with the Licensor.
 
 ### How to Apply SHL to Your Project
